@@ -1,0 +1,220 @@
+{
+    "image": {
+        "fileName": "image5.tif",
+        "resolution": 300,
+        "dimensions": {
+            "width": 1275,
+            "height": 2094
+        }
+    },
+    "annotations": [
+        {
+            "objectName": "text1",
+            "boundingBox": {
+                "xmin": 592,
+                "ymin": 78,
+                "xmax": 680,
+                "ymax": 136,
+                "text": "௳"
+            }
+        },
+        {
+            "objectName": "text2",
+            "boundingBox": {
+                "xmin": 434,
+                "ymin": 161,
+                "xmax": 841,
+                "ymax": 236,
+                "text": "கணபதி துணை."
+            }
+        },
+        {
+            "objectName": "text3",
+            "boundingBox": {
+                "xmin": 231,
+                "ymin": 264,
+                "xmax": 1052,
+                "ymax": 357,
+                "text": "தத்துவப்பிரகாசசுவாமிகள்"
+            }
+        },
+        {
+            "objectName": "text4",
+            "boundingBox": {
+                "xmin": 462,
+                "ymin": 371,
+                "xmax": 822,
+                "ymax": 464,
+                "text": "அருளிச்செய்த"
+            }
+        },
+        {
+            "objectName": "text5",
+            "boundingBox": {
+                "xmin": 136,
+                "ymin": 475,
+                "xmax": 1131,
+                "ymax": 594,
+                "text": "தத்துவப்பிரகாசம்"
+            }
+        },
+        {
+            "objectName": "text6",
+            "boundingBox": {
+                "xmin": 336,
+                "ymin": 643,
+                "xmax": 899,
+                "ymax": 729,
+                "text": "மூலமும் உரையும்."
+            }
+        },
+        {
+            "objectName": "text7",
+            "boundingBox": {
+                "xmin": 401,
+                "ymin": 864,
+                "xmax": 843,
+                "ymax": 938,
+                "text": "யாழ்ப்பாணம் வேலணை"
+            }
+        },
+        {
+            "objectName": "text8",
+            "boundingBox": {
+                "xmin": 324,
+                "ymin": 964,
+                "xmax": 957,
+                "ymax": 1050,
+                "text": "சைவப்பிரகாச வித்தியாசாலை அதிபதி"
+            }
+        },
+        {
+            "objectName": "text9",
+            "boundingBox": {
+                "xmin": 176,
+                "ymin": 1057,
+                "xmax": 1071,
+                "ymax": 1164,
+                "text": "வி.கந்தப்பிள்ளையால்"
+            }
+        },
+        {
+            "objectName": "text10",
+            "boundingBox": {
+                "xmin": 417,
+                "ymin": 1185,
+                "xmax": 850,
+                "ymax": 1275,
+                "text": "பரிசோதித்து"
+            }
+        },
+        {
+            "objectName": "text11",
+            "boundingBox": {
+                "xmin": 522,
+                "ymin": 1357,
+                "xmax": 745,
+                "ymax": 1436,
+                "text": "கொக்குவில்"
+            }
+        },
+        {
+            "objectName": "text12",
+            "boundingBox": {
+                "xmin": 266,
+                "ymin": 1436,
+                "xmax": 994,
+                "ymax": 1531,
+                "text": "சந். இரகுநாதையர் அவர்களது"
+            }
+        },
+        {
+            "objectName": "text13",
+            "boundingBox": {
+                "xmin": 320,
+                "ymin": 1520,
+                "xmax": 929,
+                "ymax": 1610,
+                "text": "சோதிடப்பிரகாசயந்திரசாலையில்"
+            }
+        },
+        {
+            "objectName": "text14",
+            "boundingBox": {
+                "xmin": 464,
+                "ymin": 1622,
+                "xmax": 817,
+                "ymax": 1689,
+                "text": "பதிப்பிக்கப்பட்டது."
+            }
+        },
+        {
+            "objectName": "text15",
+            "boundingBox": {
+                "xmin": 473,
+                "ymin": 1785,
+                "xmax": 792,
+                "ymax": 1852,
+                "text": "நந்தன ௵ மாசி௴."
+            }
+        },
+        {
+            "objectName": "text16",
+            "boundingBox": {
+                "xmin": 429,
+                "ymin": 1861,
+                "xmax": 836,
+                "ymax": 1943,
+                "text": "இதன் விலை ரூபா ௨இ"
+            }
+        },
+        {
+            "objectName": "text17",
+            "boundingBox": {
+                "xmin": 496,
+                "ymin": 1947,
+                "xmax": 755,
+                "ymax": 2061,
+                "text": "58850"
+            }
+        }
+    ],
+    "metadata": {
+        "name": "image5",
+        "format": "TIF",
+        "memorySizeMB": "6.25",
+        "font": {
+            "style": "Unknown",
+            "size": "Unknown"
+        },
+        "resource": {
+            "type": "Book",
+            "script": "Tamil",
+            "scriptType": "Mono",
+            "genre": "Cover",
+            "domain": "Religious",
+            "contentFormat": "Cover"
+        },
+        "publication": {
+            "title": "தத்துவப்பிரகாசம் மூலமும் உரையும்",
+            "subtitle": "",
+            "author": "தத்துவப்பிரகாசசுவாமிகள்",
+            "edition": "1",
+            "year": "1892",
+            "publisher": "வி.கந்தப்பிள்ளை",
+            "printingPlace": "கொக்குவில் சந். இரகுநாதையர் அவர்களது சோதிடப்பிரகாசயந்திரசாலை",
+            "printingTechnology": "Letterpress",
+            "isbn_issn": "",
+            "materialType": "white print",
+            "copyright": ""
+        },
+        "paths": {
+            "imagePath": "..\\Images\\image5.tif",
+            "textPath": "..\\Texts\\image5.xml"
+        },
+        "image_condition": {
+            "color": "white",
+            "condition": "Noise"
+        }
+    }
+}

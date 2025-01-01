@@ -1,0 +1,90 @@
+{
+    "image": {
+        "fileName": "image28.tif",
+        "resolution": 300,
+        "dimensions": {
+            "width": 1243,
+            "height": 1804
+        }
+    },
+    "annotations": [
+        {
+            "objectName": "text1",
+            "boundingBox": {
+                "xmin": 596,
+                "ymin": 139,
+                "xmax": 654,
+                "ymax": 217,
+                "text": "5"
+            }
+        },
+        {
+            "objectName": "text2",
+            "boundingBox": {
+                "xmin": 100,
+                "ymin": 227,
+                "xmax": 1138,
+                "ymax": 485,
+                "text": "கடவுளே ! 'கண்ணளி கடவுளே' என்று உன்னை இந் \nநூலில் விளிக்கலானேன். அருட் பெருங்கடலே! முதுமையில் \nஎனது கண்களைப் படலத்தால் மறைப்பித்துச் சிந்தனா சக்தியைப் \nபெருக்கி, என் மனத்தில் எழும் கருத்துக்களை உளறுமாறு \nசெய்துள்ளனை ! நீ வாழ்க!"
+            }
+        },
+        {
+            "objectName": "text3",
+            "boundingBox": {
+                "xmin": 126,
+                "ymin": 559,
+                "xmax": 428,
+                "ymax": 649,
+                "text": "இராயப்பேட்டை \n7-11-1950 }"
+            }
+        },
+        {
+            "objectName": "text4",
+            "boundingBox": {
+                "xmin": 532,
+                "ymin": 583,
+                "xmax": 1110,
+                "ymax": 649,
+                "text": "திருவாரூர்-வி.கலியாணசுந்தரன்"
+            }
+        }
+    ],
+    "metadata": {
+        "name": "image28",
+        "format": "TIF",
+        "memorySizeMB": "3.70",
+        "font": {
+            "style": "Unknown",
+            "size": "Unknown"
+        },
+        "resource": {
+            "type": "Book",
+            "script": "Tamil",
+            "scriptType": "Mono",
+            "genre": "Preface",
+            "domain": "Philosophy ",
+            "contentFormat": "Preface"
+        },
+        "publication": {
+            "title": "இருமையும் ஒருமையும்?",
+            "subtitle": "",
+            "author": "திரு.வி.கலியாணசுந்தரனார்",
+            "edition": "1",
+            "year": "1950",
+            "publisher": "",
+            "printingPlace": "சாது அச்சுக்கூடம்",
+            "printingTechnology": "Letterpress",
+            "isbn_issn": "",
+            "materialType": "white print",
+            "copyright": "திரு.வி.கலியாணசுந்தரனார்"
+        },
+        "paths": {
+            "imagePath": "..\\Images\\image28.tif",
+            "textPath": "..\\Texts\\image28.xml"
+        },
+        "image_condition": {
+            "color": "white",
+            "condition": "Good"
+        }
+    }
+}

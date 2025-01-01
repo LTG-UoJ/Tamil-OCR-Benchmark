@@ -1,0 +1,118 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>image22.tif</filename>
+	<path>..\\Images\\image22.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1112</width>
+		<height>1848</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>text1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>159</xmin>
+			<ymin>94</ymin>
+			<xmax>720</xmax>
+			<ymax>190</ymax>
+		</bndbox>
+		<text>முதற் பதிப்பு : 9, ஆகஸ்ட் 1943</text>
+	</object>
+	<object>
+		<name>text2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>188</xmin>
+			<ymin>788</ymin>
+			<xmax>486</xmax>
+			<ymax>876</ymax>
+		</bndbox>
+		<text>விலை அணா</text>
+	</object>
+	<object>
+		<name>text3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>257</xmin>
+			<ymin>900</ymin>
+			<xmax>420</xmax>
+			<ymax>994</ymax>
+		</bndbox>
+		<text>12</text>
+	</object>
+	<object>
+		<name>text4</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>712</xmin>
+			<ymin>482</ymin>
+			<xmax>941</xmax>
+			<ymax>549</ymax>
+		</bndbox>
+		<text>பதிப்புரை</text>
+	</object>
+	<object>
+		<name>text5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>539</xmin>
+			<ymin>559</ymin>
+			<xmax>1102</xmax>
+			<ymax>1188</ymax>
+		</bndbox>
+		<text>எங்கள் புது முயற்சிக்குத் தமிழ் 
+நாடெங்கும் ஆதரவு ஏராளமாகக் 
+கிடைத்திருப்பதைக் காண எங்களுக்கு 
+மிகவும் மகிழ்ச்சியும் உற்சாகமும் 
+உண்டாகி இருக்கிறது. 
+மாதம் ஒரு புத்தகம் தற்காலப் 
+பிரச்னை சம்பந்தமாக மாதா மாதம் 
+வெளிவருவது தமிழர்களுக்கு நல்ல 
+பலனைக் கொடுக்குமென்று நம்புகிறோம். 
+அந்த நம்பிக்கையுடனே 
+இப்புத்தகத்தை தமிழர்களுக்குக் 
+கொடுக்கிறேம்.</text>
+	</object>
+	<object>
+		<name>text6</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>635</xmin>
+			<ymin>1212</ymin>
+			<xmax>1102</xmax>
+			<ymax>1292</ymax>
+		</bndbox>
+		<text>தமிழ்ப் பண்ணையார்</text>
+	</object>
+	<object>
+		<name>text7</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>1586</ymin>
+			<xmax>681</xmax>
+			<ymax>1686</ymax>
+		</bndbox>
+		<text>கமர்ஷியல் பிரினடிங் அன்
+			பப்ளிஷிங் ஹவுஸ், ஜி.டி., சென்னை
+		</text>
+	</object>
+</annotation>

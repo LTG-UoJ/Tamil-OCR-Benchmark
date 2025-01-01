@@ -1,0 +1,120 @@
+{
+    "image": {
+        "fileName": "image22.tif",
+        "resolution": 300,
+        "dimensions": {
+            "width": 1112,
+            "height": 1848
+        }
+    },
+    "annotations": [
+        {
+            "objectName": "text1",
+            "boundingBox": {
+                "xmin": 159,
+                "ymin": 94,
+                "xmax": 720,
+                "ymax": 190,
+                "text": "முதற் பதிப்பு : 9, ஆகஸ்ட் 1943"
+            }
+        },
+        {
+            "objectName": "text2",
+            "boundingBox": {
+                "xmin": 188,
+                "ymin": 788,
+                "xmax": 486,
+                "ymax": 876,
+                "text": "விலை அணா"
+            }
+        },
+        {
+            "objectName": "text3",
+            "boundingBox": {
+                "xmin": 257,
+                "ymin": 900,
+                "xmax": 420,
+                "ymax": 994,
+                "text": "12"
+            }
+        },
+        {
+            "objectName": "text4",
+            "boundingBox": {
+                "xmin": 712,
+                "ymin": 482,
+                "xmax": 941,
+                "ymax": 549,
+                "text": "பதிப்புரை"
+            }
+        },
+        {
+            "objectName": "text5",
+            "boundingBox": {
+                "xmin": 539,
+                "ymin": 559,
+                "xmax": 1102,
+                "ymax": 1188,
+                "text": "எங்கள் புது முயற்சிக்குத் தமிழ் \nநாடெங்கும் ஆதரவு ஏராளமாகக் \nகிடைத்திருப்பதைக் காண எங்களுக்கு \nமிகவும் மகிழ்ச்சியும் உற்சாகமும் \nஉண்டாகி இருக்கிறது. \nமாதம் ஒரு புத்தகம் தற்காலப் \nபிரச்னை சம்பந்தமாக மாதா மாதம் \nவெளிவருவது தமிழர்களுக்கு நல்ல \nபலனைக் கொடுக்குமென்று நம்புகிறோம். \nஅந்த நம்பிக்கையுடனே \nஇப்புத்தகத்தை தமிழர்களுக்குக் \nகொடுக்கிறேம்."
+            }
+        },
+        {
+            "objectName": "text6",
+            "boundingBox": {
+                "xmin": 635,
+                "ymin": 1212,
+                "xmax": 1102,
+                "ymax": 1292,
+                "text": "தமிழ்ப் பண்ணையார்"
+            }
+        },
+        {
+            "objectName": "text7",
+            "boundingBox": {
+                "xmin": 184,
+                "ymin": 1586,
+                "xmax": 681,
+                "ymax": 1686,
+                "text": "கமர்ஷியல் பிரினடிங் அன்\n\t\t\tபப்ளிஷிங் ஹவுஸ், ஜி.டி., சென்னை\n\t\t"
+            }
+        }
+    ],
+    "metadata": {
+        "name": "image22",
+        "format": "TIF",
+        "memorySizeMB": "4.34",
+        "font": {
+            "style": "Unknown",
+            "size": "Unknown"
+        },
+        "resource": {
+            "type": "Book",
+            "script": "Tamil",
+            "scriptType": "Mono",
+            "genre": "Imprint",
+            "domain": "Politics",
+            "contentFormat": "Imprint"
+        },
+        "publication": {
+            "title": "அன்ன விசாரம்",
+            "subtitle": "",
+            "author": "டி.எஸ்.சொக்கலிங்கம்",
+            "edition": "1",
+            "year": "1943",
+            "publisher": "",
+            "printingPlace": "தமிழ்ப் பண்ணை தியாகராயநகர் சென்னை",
+            "printingTechnology": "Letterpress",
+            "isbn_issn": "",
+            "materialType": "white print",
+            "copyright": ""
+        },
+        "paths": {
+            "imagePath": "..\\Images\\image22.tif",
+            "textPath": "..\\Texts\\image22.xml"
+        },
+        "image_condition": {
+            "color": "white",
+            "condition": "Noise"
+        }
+    }
+}

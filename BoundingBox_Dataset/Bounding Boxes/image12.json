@@ -1,0 +1,110 @@
+{
+    "image": {
+        "fileName": "image12.tiff",
+        "resolution": 300,
+        "dimensions": {
+            "width": 1410,
+            "height": 2126
+        }
+    },
+    "annotations": [
+        {
+            "objectName": "text1",
+            "boundingBox": {
+                "xmin": 41,
+                "ymin": 197,
+                "xmax": 151,
+                "ymax": 285,
+                "text": "௳"
+            }
+        },
+        {
+            "objectName": "text2",
+            "boundingBox": {
+                "xmin": 358,
+                "ymin": 199,
+                "xmax": 860,
+                "ymax": 302,
+                "text": "சைவபாலபோதம்."
+            }
+        },
+        {
+            "objectName": "text3",
+            "boundingBox": {
+                "xmin": 170,
+                "ymin": 330,
+                "xmax": 1193,
+                "ymax": 1209,
+                "text": "சிவன்வாக்கினாலும் மனத்தினாலும் \nஇப்படிப் பட்டவரென்று அளவிடப் \nபடத்தக்கவரல்லர். செவியினாலன்றிக்\nகண்ணாற்கிரகிக்கக்கூடா த ஒலிவடிவாகி\nய எழுத்தை ஒவ்வொரு குறியினால் வழங்குதல்போலச்,\nசிவனுடைய திருவருட்குணங்களை\nஒவ்வொருகுறிசெய்து\nஅக்குறிமூலமாக அவரை வழிபடுதல் \nஅவசியமாயிற்று. அதுபற்றியே லிங்க \nமுதலிய பலதிருமேனிகொண்டு வழி \nபடுகின்றோம்."
+            }
+        },
+        {
+            "objectName": "text4",
+            "boundingBox": {
+                "xmin": 58,
+                "ymin": 1235,
+                "xmax": 1179,
+                "ymax": 1466,
+                "text": "5.அப்படியானால் விநாயகக்கடவுள் (பிள்ளையார்) \nசுப்பிரமணியக்கடவுள், முதலியோரைத்தெய்வமாகக்\nகொண்டு வழிபடுவதென்ன?"
+            }
+        },
+        {
+            "objectName": "text5",
+            "boundingBox": {
+                "xmin": 189,
+                "ymin": 1464,
+                "xmax": 1177,
+                "ymax": 1638,
+                "text": "அவரெல்லாம் சிவபெருமானுடைய \nஅதிகாரமூர்த்திகள்."
+            }
+        },
+        {
+            "objectName": "text6",
+            "boundingBox": {
+                "xmin": 189,
+                "ymin": 1657,
+                "xmax": 1193,
+                "ymax": 1999,
+                "text": "ஓர் அரசன் தான் இருக்குமிடத்திலேயே\nஇருந்துகொண்டு தனது மந்திரி\nபிரதானி முதலியோராலே இராச்சியத்தை \nநடாத்துதல்போலச், சிவபெரு"
+            }
+        }
+    ],
+    "metadata": {
+        "name": "image12",
+        "format": "TIF",
+        "memorySizeMB": "8.58",
+        "font": {
+            "style": "Unknown",
+            "size": "Unknown"
+        },
+        "resource": {
+            "type": "Book",
+            "script": "Tamil",
+            "scriptType": "Mono",
+            "genre": "Literature",
+            "domain": "Religious",
+            "contentFormat": "Plain text"
+        },
+        "publication": {
+            "title": "சைவபாலபோதம்",
+            "subtitle": "",
+            "author": "முத்துத்தம்பிப்பிள்ளை",
+            "edition": "1",
+            "year": "1910",
+            "publisher": "",
+            "printingPlace": "நாவலர்",
+            "printingTechnology": "Letterpress",
+            "isbn_issn": "",
+            "materialType": "white print",
+            "copyright": ""
+        },
+        "paths": {
+            "imagePath": "..\\Images\\image12.tiff",
+            "textPath": "..\\Texts\\image12.xml"
+        },
+        "image_condition": {
+            "color": "white",
+            "condition": "Good"
+        }
+    }
+}

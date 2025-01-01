@@ -1,0 +1,200 @@
+{
+    "image": {
+        "fileName": "image32.tif",
+        "resolution": 300,
+        "dimensions": {
+            "width": 1211,
+            "height": 2007
+        }
+    },
+    "annotations": [
+        {
+            "objectName": "text1",
+            "boundingBox": {
+                "xmin": 373,
+                "ymin": 142,
+                "xmax": 722,
+                "ymax": 235,
+                "text": "நூன்முகம்."
+            }
+        },
+        {
+            "objectName": "text2",
+            "boundingBox": {
+                "xmin": 13,
+                "ymin": 269,
+                "xmax": 1102,
+                "ymax": 767,
+                "text": "இன்று உயர்வகுப்புகளிற் சுயமொழியிற் சரித்திரபாடத்தை\nஇலகுவிற் போதிக்க -  மாணவர் கற்றுத்தேற ஒழுங்கான \nமுறையில் விஷயச் செறிவுடனும், உரைநடைச் சிறப்புடனும் \nஅமைந்த ஒரு நூல் இல்லையென்பதையும், இப்பாடத்தைக் கற்பிக்கும் \nஆசிரியர்கள் ஒரு சிறந்த சரித்திர நூலை ஆவலோடு எதிர்பார்ப்பதையும் \nஅறிந்து இத்தேவையைப் பூர்த்திசெய்யும் நோக்குடன் \nகொழும்பு - சென்ற் ஜோன்ஸ் கல்லூரிச் சரித்திரப் \nபேராசிரியர் திரு. விஜயன் விக்ரோறியா அவர்கள் எழுதிய இந்நூலைப் \nபொறுப் பேற்றுப் பாடச் சுருக்கம், வினாக்கள், பரீட்க்ஷைப் \nபத்திரங்கள் என்பனவும் சேர ஒழுங்கான முறையில் அமைத்து \nவெளியிடுகின்றோம். நூலாசிரியர்க்குச் சரித்திரம் போதிக்கும் \nஆசிரியர்கள் நன்றிகூறும் கடப்பாடுடையர்."
+            }
+        },
+        {
+            "objectName": "text3",
+            "boundingBox": {
+                "xmin": 120,
+                "ymin": 769,
+                "xmax": 1004,
+                "ymax": 829,
+                "text": "இம்முறையில் \"உலக சரித்திர விளக்கம்\" என்னும் நூலும்"
+            }
+        },
+        {
+            "objectName": "text4",
+            "boundingBox": {
+                "xmin": 331,
+                "ymin": 827,
+                "xmax": 784,
+                "ymax": 884,
+                "text": "தொடர்ந்து வெளிவரும்."
+            }
+        },
+        {
+            "objectName": "text5",
+            "boundingBox": {
+                "xmin": 418,
+                "ymin": 882,
+                "xmax": 678,
+                "ymax": 940,
+                "text": "வணக்கம்."
+            }
+        },
+        {
+            "objectName": "text6",
+            "boundingBox": {
+                "xmin": 146,
+                "ymin": 980,
+                "xmax": 342,
+                "ymax": 1047,
+                "text": "1-11.57"
+            }
+        },
+        {
+            "objectName": "text7",
+            "boundingBox": {
+                "xmin": 606,
+                "ymin": 971,
+                "xmax": 1091,
+                "ymax": 1055,
+                "text": "வே. சிவக்கொழுந்து"
+            }
+        },
+        {
+            "objectName": "text8",
+            "boundingBox": {
+                "xmin": 715,
+                "ymin": 1080,
+                "xmax": 958,
+                "ymax": 1147,
+                "text": "பிரசுர ஆசிரியன்"
+            }
+        },
+        {
+            "objectName": "text9",
+            "boundingBox": {
+                "xmin": 171,
+                "ymin": 1193,
+                "xmax": 862,
+                "ymax": 1287,
+                "text": "இரண்டாம் பதிப்பு முன்னுரை."
+            }
+        },
+        {
+            "objectName": "text10",
+            "boundingBox": {
+                "xmin": 1,
+                "ymin": 1311,
+                "xmax": 1118,
+                "ymax": 1749,
+                "text": "இதுவரை வெளிவந்துள்ள இலங்கைச் சரித்திர நூல்களுள் \nஇந்நூல் சாலச் சிறந்ததென ஆசிரியர்களினதும் மாணவரினதும் \nமதிப்பைப் பெற்றிருப்பது மிகுந்த மகிழ்ச்சி. முந்திய முன்னுரையில் \nகுறிப்பிட்ட பிரகாரம் பல ஜோலிகளில் உலக சரித்திர \nவிளக்கம் (1500-1961) இதுவரை வெளியிட இயலவில்லை \nஎவரேனும் சரித்திர ஆசிரியர்கள் தாம் சிறந்தமுறையில் உலக \nசரித்திரத்தை எழுதி வைத்திருப்பின் அதனைப் பிரசுரிப்பிக்கும் \nபொறுப்பை யேற்றுத் தகுந்த சன்மானம் வழங்குவோம். \nஎம்மோடு தொடர்பு கொள்க."
+            }
+        },
+        {
+            "objectName": "text11",
+            "boundingBox": {
+                "xmin": 100,
+                "ymin": 1755,
+                "xmax": 375,
+                "ymax": 1802,
+                "text": "கலாபவனம்"
+            }
+        },
+        {
+            "objectName": "text12",
+            "boundingBox": {
+                "xmin": 73,
+                "ymin": 1800,
+                "xmax": 375,
+                "ymax": 1853,
+                "text": "மேலைப்புலோலி"
+            }
+        },
+        {
+            "objectName": "text13",
+            "boundingBox": {
+                "xmin": 44,
+                "ymin": 1851,
+                "xmax": 398,
+                "ymax": 1900,
+                "text": "பருத்தித்துறை"
+            }
+        },
+        {
+            "objectName": "text14",
+            "boundingBox": {
+                "xmin": 124,
+                "ymin": 1891,
+                "xmax": 275,
+                "ymax": 1949,
+                "text": "1-1-62."
+            }
+        },
+        {
+            "objectName": "text15",
+            "boundingBox": {
+                "xmin": 646,
+                "ymin": 1749,
+                "xmax": 1029,
+                "ymax": 1824,
+                "text": "வே. சிவக்கொழுந்து"
+            }
+        }
+    ],
+    "metadata": {
+        "name": "image32",
+        "format": "TIF",
+        "memorySizeMB": "6.28",
+        "font": {
+            "style": "Unknown",
+            "size": "Unknown"
+        },
+        "resource": {
+            "type": "Book",
+            "script": "Tamil",
+            "scriptType": "Mono",
+            "genre": "Preface",
+            "domain": "History",
+            "contentFormat": "Preface"
+        },
+        "publication": {
+            "title": "இலங்கைச் சரித்திர விளக்கம் (1500-1961)",
+            "subtitle": "நூன்முகம்",
+            "author": "திரு. A. விஜயன் விக்ரோறியா",
+            "edition": "2",
+            "year": "1961",
+            "publisher": "திரு.வே.சிவக்கொழுந்து",
+            "printingPlace": "",
+            "printingTechnology": "Letterpress",
+            "isbn_issn": "",
+            "materialType": "white print",
+            "copyright": ""
+        },
+        "paths": {
+            "imagePath": "..\\Images\\image32.tif",
+            "textPath": "..\\Texts\\image32.xml"
+        },
+        "image_condition": {
+            "color": "white",
+            "condition": "Good"
+        }
+    }
+}
