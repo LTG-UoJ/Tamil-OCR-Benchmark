@@ -1,0 +1,200 @@
+{
+    "image": {
+        "fileName": "image20.tiff",
+        "resolution": 300,
+        "dimensions": {
+            "width": 1985,
+            "height": 3114
+        }
+    },
+    "annotations": [
+        {
+            "objectName": "text1",
+            "boundingBox": {
+                "xmin": 866,
+                "ymin": 296,
+                "xmax": 1025,
+                "ymax": 427,
+                "text": "உ"
+            }
+        },
+        {
+            "objectName": "text2",
+            "boundingBox": {
+                "xmin": 87,
+                "ymin": 389,
+                "xmax": 1797,
+                "ymax": 562,
+                "text": "தொல்புரம் பனைத்தொழில் விருத்தி"
+            }
+        },
+        {
+            "objectName": "text3",
+            "boundingBox": {
+                "xmin": 397,
+                "ymin": 576,
+                "xmax": 1459,
+                "ymax": 731,
+                "text": "ஐக்கியசங்க வேலைகள்"
+            }
+        },
+        {
+            "objectName": "text4",
+            "boundingBox": {
+                "xmin": 207,
+                "ymin": 827,
+                "xmax": 1528,
+                "ymax": 1189,
+                "text": "செல்வமலிந்திடும் தொல்புரமாநகர்\nசெய்பனை யைக்கியச் சங்கத்திலே \nநல்ல பலபொருள் முன்னறியாதன\nநாங்கள் செய்வோம் வாரும் தோழர்களே-"
+            }
+        },
+        {
+            "objectName": "text5",
+            "boundingBox": {
+                "xmin": 1642,
+                "ymin": 1096,
+                "xmax": 1769,
+                "ymax": 1210,
+                "text": "௧"
+            }
+        },
+        {
+            "objectName": "text6",
+            "boundingBox": {
+                "xmin": 211,
+                "ymin": 1186,
+                "xmax": 1528,
+                "ymax": 1541,
+                "text": "தீரும் பணமுட்டுத் தொல்புர வைக்கியத்\nதிருவளர் சங்கத்தை வாழ்த்திக் கொண்டே\nவாரும் வாரும் நல்லதோழர்களே நாங்கள் \nமனமார வேலைகள் செய்திடுவோம்-"
+            }
+        },
+        {
+            "objectName": "text7",
+            "boundingBox": {
+                "xmin": 1642,
+                "ymin": 1462,
+                "xmax": 1735,
+                "ymax": 1531,
+                "text": "௨"
+            }
+        },
+        {
+            "objectName": "text8",
+            "boundingBox": {
+                "xmin": 211,
+                "ymin": 1527,
+                "xmax": 1538,
+                "ymax": 1876,
+                "text": "கற்பகம் போலவெல் லாந்தா முன்னாளில் \nகடவுள் படைத்த பனை மரத்தில் \nஅற்புதமான வுணவுப் பொருள்களை\nஆக்குவோம் வாருங்கள் தோழர்களே-"
+            }
+        },
+        {
+            "objectName": "text9",
+            "boundingBox": {
+                "xmin": 1618,
+                "ymin": 1783,
+                "xmax": 1749,
+                "ymax": 1893,
+                "text": "௩"
+            }
+        },
+        {
+            "objectName": "text10",
+            "boundingBox": {
+                "xmin": 204,
+                "ymin": 1858,
+                "xmax": 1494,
+                "ymax": 2196,
+                "text": "தெய்வப் பனை தரும் தீம்பழக் களியில்\nதித்திப் பானாசம் செய்திடுவோம்\nஉய்வைத் தரவல்ல நல்ல களியினில்\nஒருவகைச் சிற்றுண்டி செய்திடுவோம்-"
+            }
+        },
+        {
+            "objectName": "text11",
+            "boundingBox": {
+                "xmin": 1628,
+                "ymin": 2107,
+                "xmax": 1756,
+                "ymax": 2207,
+                "text": "௪"
+            }
+        },
+        {
+            "objectName": "text12",
+            "boundingBox": {
+                "xmin": 214,
+                "ymin": 2179,
+                "xmax": 1500,
+                "ymax": 2527,
+                "text": "கைப்பு முப்பும்போக நாலு சுவைகள் \nகனியும் களிசெய் பனாட்டதனை\nஎப்போதும் யாதும் பழுது வராமலே\nஎன்ன செய்யவேண்டும் தோழர்களே-"
+            }
+        },
+        {
+            "objectName": "text13",
+            "boundingBox": {
+                "xmin": 1628,
+                "ymin": 2424,
+                "xmax": 1742,
+                "ymax": 2534,
+                "text": "௫"
+            }
+        },
+        {
+            "objectName": "text14",
+            "boundingBox": {
+                "xmin": 197,
+                "ymin": 2503,
+                "xmax": 1507,
+                "ymax": 2869,
+                "text": "செப்பமான நல்ல புட்டியிலே காற்றுச்\nசெல்லாம லேயிட்டுச் செம்மி வைத்தால்\nஎப்போதும் யாதும் பழுதுவரா தெங்கும் \nஏற்றுமதி செய்து விற்றிடுவோம்-"
+            }
+        },
+        {
+            "objectName": "text15",
+            "boundingBox": {
+                "xmin": 1614,
+                "ymin": 2762,
+                "xmax": 1759,
+                "ymax": 2855,
+                "text": "௬"
+            }
+        }
+    ],
+    "metadata": {
+        "name": "image20",
+        "format": "TIF",
+        "memorySizeMB": "17.69",
+        "font": {
+            "style": "Unknown",
+            "size": "Unknown"
+        },
+        "resource": {
+            "type": "Book",
+            "script": "Tamil",
+            "scriptType": "Mono",
+            "genre": "Poem",
+            "domain": "Botanical",
+            "contentFormat": "Plain text"
+        },
+        "publication": {
+            "title": "தாலவிலாசம்",
+            "subtitle": "தொல்புரம் பனைத்தொழில் விருத்தி ஐக்கியசங்க வேலைகள்",
+            "author": "க. சோமசுந்தரப் புலவர்",
+            "edition": "1",
+            "year": "1940",
+            "publisher": "தொல்புரம் பனைத்தொழில்விருத்தி  ஐக்கிய சங்கம்",
+            "printingPlace": "தொல்புரம் பனைத்தொழில்விருத்தி  ஐக்கிய சங்கம்",
+            "printingTechnology": "Letterpress",
+            "isbn_issn": "",
+            "materialType": "white print",
+            "copyright": "தொல்புரம் பனைத்தொழில்விருத்தி  ஐக்கிய சங்கம்"
+        },
+        "paths": {
+            "imagePath": "..\\Images\\image20.tiff",
+            "textPath": "..\\Texts\\image20.xml"
+        },
+        "image_condition": {
+            "color": "white",
+            "condition": "Good"
+        }
+    }
+}

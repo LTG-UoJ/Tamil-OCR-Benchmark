@@ -1,0 +1,140 @@
+{
+    "image": {
+        "fileName": "image29.tif",
+        "resolution": 300,
+        "dimensions": {
+            "width": 1243,
+            "height": 1804
+        }
+    },
+    "annotations": [
+        {
+            "objectName": "text1",
+            "boundingBox": {
+                "xmin": 590,
+                "ymin": 147,
+                "xmax": 666,
+                "ymax": 215,
+                "text": "8"
+            }
+        },
+        {
+            "objectName": "text2",
+            "boundingBox": {
+                "xmin": 126,
+                "ymin": 227,
+                "xmax": 388,
+                "ymax": 295,
+                "text": "இரட்டைகள்"
+            }
+        },
+        {
+            "objectName": "text3",
+            "boundingBox": {
+                "xmin": 220,
+                "ymin": 301,
+                "xmax": 1008,
+                "ymax": 759,
+                "text": "எங்குங் கடவுளே தங்குகின் றாயே \nஎப்படிப் பொய்ம்மையும் ஒப்புர வின்மையும் \nபுறஞ்சொலும் அச்சமும் புறம்பும் ஐயமும் \nதிரிபும் மயக்கமும் கரவும் வஞ்சமும் \nசூதும் சூழ்ச்சியும் வாதும் வம்பும் \nபழியும் பாவமும் வழுவும் பிழையும் \nபிணக்கும் பூசலும் கணக்கில் போரும் \nபிணியும் பிறவும் அணுகின ? அந்தோ! \nதீங்கும் நலமும் தேங்கித் தியங்கலென்?"
+            }
+        },
+        {
+            "objectName": "text4",
+            "boundingBox": {
+                "xmin": 154,
+                "ymin": 763,
+                "xmax": 216,
+                "ymax": 821,
+                "text": "20"
+            }
+        },
+        {
+            "objectName": "text5",
+            "boundingBox": {
+                "xmin": 212,
+                "ymin": 761,
+                "xmax": 1068,
+                "ymax": 1067,
+                "text": "அழிவும் ஆக்கமும் வழிவழிப் பெருகலென்? \nமறப்பும் நினைப்பும் உறப்புகுந் தாழ்தலென் ? \nஇருளும் ஒளியும் பொருளாப் பொருந்தலென்? \nஅறிவறி யாமை அணைந்து செறிதலென்? \nபகையும் நட்பும் வகைவகைப் படிதலென்? \nதுன்பமும் இன்பமும் துன்னித் துதைதலென்?"
+            }
+        },
+        {
+            "objectName": "text6",
+            "boundingBox": {
+                "xmin": 126,
+                "ymin": 1069,
+                "xmax": 1150,
+                "ymax": 1539,
+                "text": "12. ஒப்புரவு -உபகாரம்; ஒற்றுமை ; சமம் ;சமாதானம். \nஒப்புரவு என்னும் சொல் ஆழ்ந்த பொருளுடையது. 'தன்னுயிர் \nமன்னுயிர் மன்னுயிர் தன்னுயிர்' என்னும் உணர்வுடன் \nஒருவரோடொருவர் உட்கலந்து கூட்டுறவால் உதவி புரிந்து \nகொள்வது ஒப்புரவாகும் என்று சுருங்கச் சொல்லலாம். இதுவே \n'சோஷலிஸம்' என்பது. உபநிடதம், பகவத் கீதை,திருக்குறள், \nபைபில், திருக்குரான் முதலிய பெருநூல்களின் உள்ளமும்\nஒப்புரவே என்பது கருதத் தக்கது. ஒப்புரவை நன்கு தெளிந்து \nநடந்தால் உலகம் ஒருகுலமாதல் ஒருதலை. இங்கே விரிவுரை \nவேண்டுவதில்லை."
+            }
+        },
+        {
+            "objectName": "text7",
+            "boundingBox": {
+                "xmin": 212,
+                "ymin": 1533,
+                "xmax": 1090,
+                "ymax": 1589,
+                "text": "13. புறஞ்சொலும் - புறங்கூறலும். புறம்பும் - கழிவும்."
+            }
+        },
+        {
+            "objectName": "text8",
+            "boundingBox": {
+                "xmin": 198,
+                "ymin": 1583,
+                "xmax": 888,
+                "ymax": 1633,
+                "text": "23. செறிதல் - கலத்தல்; நெருங்குதல்."
+            }
+        },
+        {
+            "objectName": "text9",
+            "boundingBox": {
+                "xmin": 196,
+                "ymin": 1627,
+                "xmax": 970,
+                "ymax": 1689,
+                "text": "25. துன்னித் துதைதல் - பொருந்திச் செறிதல்."
+            }
+        }
+    ],
+    "metadata": {
+        "name": "image29",
+        "format": "TIF",
+        "memorySizeMB": "4.59",
+        "font": {
+            "style": "Unknown",
+            "size": "Unknown"
+        },
+        "resource": {
+            "type": "Book",
+            "script": "Tamil",
+            "scriptType": "Mono",
+            "genre": "poem and paragraph",
+            "domain": "Philosophy ",
+            "contentFormat": "Plain text"
+        },
+        "publication": {
+            "title": "இருமையும் ஒருமையும்?",
+            "subtitle": "இரட்டைகள்",
+            "author": "திரு.வி.கலியாணசுந்தரனார்",
+            "edition": "1",
+            "year": "1950",
+            "publisher": "",
+            "printingPlace": "சாது அச்சுக்கூடம்",
+            "printingTechnology": "Letterpress",
+            "isbn_issn": "",
+            "materialType": "white print",
+            "copyright": "திரு.வி.கலியாணசுந்தரனார்"
+        },
+        "paths": {
+            "imagePath": "..\\Images\\image29.tif",
+            "textPath": "..\\Texts\\image29.xml"
+        },
+        "image_condition": {
+            "color": "white",
+            "condition": "Good"
+        }
+    }
+}

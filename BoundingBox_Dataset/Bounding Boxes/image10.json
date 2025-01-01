@@ -1,0 +1,130 @@
+{
+    "image": {
+        "fileName": "image10.tiff",
+        "resolution": 300,
+        "dimensions": {
+            "width": 1410,
+            "height": 2126
+        }
+    },
+    "annotations": [
+        {
+            "objectName": "text1",
+            "boundingBox": {
+                "xmin": 572,
+                "ymin": 197,
+                "xmax": 691,
+                "ymax": 280,
+                "text": "௳"
+            }
+        },
+        {
+            "objectName": "text2",
+            "boundingBox": {
+                "xmin": 501,
+                "ymin": 326,
+                "xmax": 741,
+                "ymax": 430,
+                "text": "சிவமயம்."
+            }
+        },
+        {
+            "objectName": "text3",
+            "boundingBox": {
+                "xmin": 98,
+                "ymin": 473,
+                "xmax": 1174,
+                "ymax": 635,
+                "text": "சைவபாலபோதம்."
+            }
+        },
+        {
+            "objectName": "text4",
+            "boundingBox": {
+                "xmin": 198,
+                "ymin": 928,
+                "xmax": 1074,
+                "ymax": 1059,
+                "text": "ஆ.முத்துத்தம்பிப்பிள்ளை"
+            }
+        },
+        {
+            "objectName": "text5",
+            "boundingBox": {
+                "xmin": 491,
+                "ymin": 1095,
+                "xmax": 753,
+                "ymax": 1192,
+                "text": "செய்தது."
+            }
+        },
+        {
+            "objectName": "text6",
+            "boundingBox": {
+                "xmin": 453,
+                "ymin": 1290,
+                "xmax": 793,
+                "ymax": 1373,
+                "text": "யாழ்ப்பாணம்"
+            }
+        },
+        {
+            "objectName": "text7",
+            "boundingBox": {
+                "xmin": 298,
+                "ymin": 1407,
+                "xmax": 936,
+                "ymax": 1511,
+                "text": "\"நாவலர்\" அச்சுக்கூடம்."
+            }
+        },
+        {
+            "objectName": "text8",
+            "boundingBox": {
+                "xmin": 496,
+                "ymin": 1602,
+                "xmax": 739,
+                "ymax": 1699,
+                "text": "1910."
+            }
+        }
+    ],
+    "metadata": {
+        "name": "image10",
+        "format": "TIF",
+        "memorySizeMB": "8.58",
+        "font": {
+            "style": "Unknown",
+            "size": "Unknown"
+        },
+        "resource": {
+            "type": "Book",
+            "script": "Tamil",
+            "scriptType": "Mono",
+            "genre": "Cover",
+            "domain": "Religious",
+            "contentFormat": "Cover"
+        },
+        "publication": {
+            "title": "சைவபாலபோதம்",
+            "subtitle": "",
+            "author": "முத்துத்தம்பிப்பிள்ளை",
+            "edition": "1",
+            "year": "1910",
+            "publisher": "",
+            "printingPlace": "நாவலர்",
+            "printingTechnology": "Letterpress",
+            "isbn_issn": "",
+            "materialType": "white print",
+            "copyright": ""
+        },
+        "paths": {
+            "imagePath": "..\\Images\\image10.tiff",
+            "textPath": "..\\Texts\\image10.xml"
+        },
+        "image_condition": {
+            "color": "white",
+            "condition": "Good"
+        }
+    }
+}

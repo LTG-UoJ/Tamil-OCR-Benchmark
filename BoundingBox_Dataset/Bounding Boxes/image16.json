@@ -1,0 +1,190 @@
+{
+    "image": {
+        "fileName": "image16.tif",
+        "resolution": 300,
+        "dimensions": {
+            "width": 1774,
+            "height": 2758
+        }
+    },
+    "annotations": [
+        {
+            "objectName": "text1",
+            "boundingBox": {
+                "xmin": 839,
+                "ymin": 295,
+                "xmax": 964,
+                "ymax": 389,
+                "text": "௳"
+            }
+        },
+        {
+            "objectName": "text2",
+            "boundingBox": {
+                "xmin": 754,
+                "ymin": 377,
+                "xmax": 1048,
+                "ymax": 483,
+                "text": "சிவமயம்."
+            }
+        },
+        {
+            "objectName": "text3",
+            "boundingBox": {
+                "xmin": 212,
+                "ymin": 489,
+                "xmax": 1573,
+                "ymax": 689,
+                "text": "வைத்தியத்தெளிவு."
+            }
+        },
+        {
+            "objectName": "text4",
+            "boundingBox": {
+                "xmin": 712,
+                "ymin": 816,
+                "xmax": 1070,
+                "ymax": 919,
+                "text": "காப்பு."
+            }
+        },
+        {
+            "objectName": "text5",
+            "boundingBox": {
+                "xmin": 254,
+                "ymin": 931,
+                "xmax": 1464,
+                "ymax": 1286,
+                "text": "ஆதி யந்த மிலாத வருட்பெருஞ் \nசோதி யாயட்ட மூர்த்தி சொரூபமாய் \nநாத மாயெப் பொருட்கு நடுவுறும் \nபோத மாஞ்சிவன் பொன்னடி போற்றுவாம்."
+            }
+        },
+        {
+            "objectName": "text6",
+            "boundingBox": {
+                "xmin": 1561,
+                "ymin": 1156,
+                "xmax": 1673,
+                "ymax": 1250,
+                "text": "௧"
+            }
+        },
+        {
+            "objectName": "text7",
+            "boundingBox": {
+                "xmin": 597,
+                "ymin": 1283,
+                "xmax": 1200,
+                "ymax": 1392,
+                "text": "ஆயுள்வேத வரலாறு."
+            }
+        },
+        {
+            "objectName": "text8",
+            "boundingBox": {
+                "xmin": 261,
+                "ymin": 1389,
+                "xmax": 1248,
+                "ymax": 1743,
+                "text": "ஆயுள் வேதத்தை யாதியி லத்தனார் \nமாயா சத்தி மனதி லுரைத்தனர் \nமாயா சத்தி மறுபடி சித்தர்க்குக்\nகாய மாந்தரைக் காக்கக் கழறினாள்."
+            }
+        },
+        {
+            "objectName": "text9",
+            "boundingBox": {
+                "xmin": 1554,
+                "ymin": 1592,
+                "xmax": 1667,
+                "ymax": 1728,
+                "text": "௨"
+            }
+        },
+        {
+            "objectName": "text10",
+            "boundingBox": {
+                "xmin": 664,
+                "ymin": 1750,
+                "xmax": 1173,
+                "ymax": 1862,
+                "text": "மருத்துவரியல்பு."
+            }
+        },
+        {
+            "objectName": "text11",
+            "boundingBox": {
+                "xmin": 251,
+                "ymin": 1846,
+                "xmax": 1318,
+                "ymax": 2213,
+                "text": "சுத்த சைவத்திற் றோன்று மருத்துவர்\nசித்தம் வாக்குச் செயல்புரி தேகத்தால்\nநித்தங் கர்த்தனை நேசித்துப் பூசித்துப் \nபத்தி கொண்டு பவப்பகை வெல்வரே."
+            }
+        },
+        {
+            "objectName": "text12",
+            "boundingBox": {
+                "xmin": 1506,
+                "ymin": 2074,
+                "xmax": 1667,
+                "ymax": 2180,
+                "text": "௩"
+            }
+        },
+        {
+            "objectName": "text13",
+            "boundingBox": {
+                "xmin": 267,
+                "ymin": 2213,
+                "xmax": 1364,
+                "ymax": 2565,
+                "text": "சலைய னைத்துங் கருத்தி லிருத்தியே \nநிலைகொ ணோய்களை நீக்கு மருத்துவர் \nகொலைமு தற்கொண்டு கூறிய பாவத்தை \nவிலக நீக்கி யருளில் விளங்குவார்."
+            }
+        },
+        {
+            "objectName": "text14",
+            "boundingBox": {
+                "xmin": 1548,
+                "ymin": 2434,
+                "xmax": 1703,
+                "ymax": 2559,
+                "text": "௪"
+            }
+        }
+    ],
+    "metadata": {
+        "name": "image16",
+        "format": "TIF",
+        "memorySizeMB": "18.67",
+        "font": {
+            "style": "Unknown",
+            "size": "Unknown"
+        },
+        "resource": {
+            "type": "Book",
+            "script": "Tamil",
+            "scriptType": "Mono",
+            "genre": "Poem",
+            "domain": "Medicine",
+            "contentFormat": "Plain text"
+        },
+        "publication": {
+            "title": "வைத்தியத்தெளிவு அனுபந்தத்துடன் ",
+            "subtitle": "வைத்தியத்தெளிவு",
+            "author": "செட்டியார்",
+            "edition": "1",
+            "year": "1930",
+            "publisher": "",
+            "printingPlace": "சுன்னாகம் திருமகள்",
+            "printingTechnology": "Letterpress",
+            "isbn_issn": "",
+            "materialType": "white print",
+            "copyright": ""
+        },
+        "paths": {
+            "imagePath": "..\\Images\\image16.tif",
+            "textPath": "..\\Texts\\image16.xml"
+        },
+        "image_condition": {
+            "color": "white",
+            "condition": "Good"
+        }
+    }
+}

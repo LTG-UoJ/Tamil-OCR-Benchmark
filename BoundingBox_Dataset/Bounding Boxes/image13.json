@@ -1,0 +1,220 @@
+{
+    "image": {
+        "fileName": "image13.tif",
+        "resolution": 300,
+        "dimensions": {
+            "width": 1783,
+            "height": 2758
+        }
+    },
+    "annotations": [
+        {
+            "objectName": "text1",
+            "boundingBox": {
+                "xmin": 93,
+                "ymin": 225,
+                "xmax": 1081,
+                "ymax": 337,
+                "text": "ப்பாணத்து வைத்திய நூல் வெளியீடு-௪."
+            }
+        },
+        {
+            "objectName": "text2",
+            "boundingBox": {
+                "xmin": 678,
+                "ymin": 356,
+                "xmax": 808,
+                "ymax": 428,
+                "text": "௳"
+            }
+        },
+        {
+            "objectName": "text3",
+            "boundingBox": {
+                "xmin": 605,
+                "ymin": 413,
+                "xmax": 887,
+                "ymax": 522,
+                "text": "சிவமயம்."
+            }
+        },
+        {
+            "objectName": "text4",
+            "boundingBox": {
+                "xmin": 311,
+                "ymin": 613,
+                "xmax": 1178,
+                "ymax": 753,
+                "text": "வைத்தியத்தெளிவு"
+            }
+        },
+        {
+            "objectName": "text5",
+            "boundingBox": {
+                "xmin": 214,
+                "ymin": 750,
+                "xmax": 1293,
+                "ymax": 901,
+                "text": "அனுபந்தத்துடன்."
+            }
+        },
+        {
+            "objectName": "text6",
+            "boundingBox": {
+                "xmin": 302,
+                "ymin": 895,
+                "xmax": 1126,
+                "ymax": 1010,
+                "text": "செட்டியார்இயற்றியது."
+            }
+        },
+        {
+            "objectName": "text7",
+            "boundingBox": {
+                "xmin": 629,
+                "ymin": 1334,
+                "xmax": 841,
+                "ymax": 1431,
+                "text": "இஃது."
+            }
+        },
+        {
+            "objectName": "text8",
+            "boundingBox": {
+                "xmin": 429,
+                "ymin": 1431,
+                "xmax": 1047,
+                "ymax": 1522,
+                "text": "யாப்பாணத்து ஏழாலை"
+            }
+        },
+        {
+            "objectName": "text9",
+            "boundingBox": {
+                "xmin": 472,
+                "ymin": 1528,
+                "xmax": 993,
+                "ymax": 1610,
+                "text": "சுதேச வைத்தியர்"
+            }
+        },
+        {
+            "objectName": "text10",
+            "boundingBox": {
+                "xmin": 290,
+                "ymin": 1616,
+                "xmax": 1199,
+                "ymax": 1734,
+                "text": "ஐ. பொன்னையபிள்ளையால்"
+            }
+        },
+        {
+            "objectName": "text11",
+            "boundingBox": {
+                "xmin": 511,
+                "ymin": 1719,
+                "xmax": 926,
+                "ymax": 1834,
+                "text": "பரிசோதித்து"
+            }
+        },
+        {
+            "objectName": "text12",
+            "boundingBox": {
+                "xmin": 547,
+                "ymin": 1934,
+                "xmax": 875,
+                "ymax": 2040,
+                "text": "சுன்னாகம்"
+            }
+        },
+        {
+            "objectName": "text13",
+            "boundingBox": {
+                "xmin": 299,
+                "ymin": 2022,
+                "xmax": 1166,
+                "ymax": 2128,
+                "text": "திருமகள் அச்சியந்திரசாலையில்"
+            }
+        },
+        {
+            "objectName": "text14",
+            "boundingBox": {
+                "xmin": 432,
+                "ymin": 2110,
+                "xmax": 1041,
+                "ymax": 2201,
+                "text": "பதிப்பிக்கப்பெற்றது"
+            }
+        },
+        {
+            "objectName": "text15",
+            "boundingBox": {
+                "xmin": 414,
+                "ymin": 2201,
+                "xmax": 1050,
+                "ymax": 2310,
+                "text": "பிரமோதூத - ஐப்பசி."
+            }
+        },
+        {
+            "objectName": "text16",
+            "boundingBox": {
+                "xmin": 617,
+                "ymin": 2310,
+                "xmax": 847,
+                "ymax": 2404,
+                "text": "1930."
+            }
+        },
+        {
+            "objectName": "text17",
+            "boundingBox": {
+                "xmin": 335,
+                "ymin": 2404,
+                "xmax": 1114,
+                "ymax": 2516,
+                "text": "உரிமைபதிவு செய்யப்பெற்றது."
+            }
+        }
+    ],
+    "metadata": {
+        "name": "image13",
+        "format": "TIF",
+        "memorySizeMB": "14.08",
+        "font": {
+            "style": "Unknown",
+            "size": "Unknown"
+        },
+        "resource": {
+            "type": "Book",
+            "script": "Tamil",
+            "scriptType": "Mono",
+            "genre": "Cover",
+            "domain": "Medicine",
+            "contentFormat": "Cover"
+        },
+        "publication": {
+            "title": "வைத்தியத்தெளிவு அனுபந்தத்துடன் ",
+            "subtitle": "",
+            "author": "செட்டியார்",
+            "edition": "1",
+            "year": "1930",
+            "publisher": "",
+            "printingPlace": "சுன்னாகம் திருமகள்",
+            "printingTechnology": "Letterpress",
+            "isbn_issn": "",
+            "materialType": "",
+            "copyright": ""
+        },
+        "paths": {
+            "imagePath": "..\\Images\\image13.tif",
+            "textPath": "..\\Texts\\image13.xml"
+        },
+        "image_condition": {
+            "color": "white",
+            "condition": "Good"
+        }
+    }
+}

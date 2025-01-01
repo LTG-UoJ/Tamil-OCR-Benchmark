@@ -1,0 +1,160 @@
+{
+    "image": {
+        "fileName": "image39.tif",
+        "resolution": 300,
+        "dimensions": {
+            "width": 1211,
+            "height": 2007
+        }
+    },
+    "annotations": [
+        {
+            "objectName": "text1",
+            "boundingBox": {
+                "xmin": 264,
+                "ymin": 47,
+                "xmax": 838,
+                "ymax": 142,
+                "text": "பரீட்சை வினாக்கள்."
+            }
+        },
+        {
+            "objectName": "text2",
+            "boundingBox": {
+                "xmin": 22,
+                "ymin": 220,
+                "xmax": 1113,
+                "ymax": 342,
+                "text": "1.டச்சுக்காரர் கிழக்குப்பிரதேசங்களில் தங்கள் அதிகாரத்தை \nநிலைநாட்டியது எங்ஙனமெனக் கூறுக."
+            }
+        },
+        {
+            "objectName": "text3",
+            "boundingBox": {
+                "xmin": 20,
+                "ymin": 340,
+                "xmax": 1106,
+                "ymax": 458,
+                "text": "2. இலங்கையின் கரையோர மாகாணங்களை டச்சுக்காரர் கைப்பற்றிய \nவகையைக் கூறுக."
+            }
+        },
+        {
+            "objectName": "text4",
+            "boundingBox": {
+                "xmin": 20,
+                "ymin": 467,
+                "xmax": 1104,
+                "ymax": 642,
+                "text": "3. நாயக்கர் வமிசத்து மன்னர்களுக்கும் டச்சுக்காரருக்குமிடையே \nபிணக்குகள் உண்டாவதற்கான காரணங்களைக் கூறுக."
+            }
+        },
+        {
+            "objectName": "text5",
+            "boundingBox": {
+                "xmin": 9,
+                "ymin": 638,
+                "xmax": 1109,
+                "ymax": 769,
+                "text": "4. டச்சுக்காரரின் ஆட்சி இலங்கையில் வீழ்ச்சியடைந்ததற்குரிய \nகாரணங்களை ஆராய்க."
+            }
+        },
+        {
+            "objectName": "text6",
+            "boundingBox": {
+                "xmin": 20,
+                "ymin": 773,
+                "xmax": 1115,
+                "ymax": 902,
+                "text": "5. இலங்கையில் டச்சுக்காரர் செய்த பரிபாலனத்தின் விளைவுகளும் \nபலாபலன்களும் யாவை?"
+            }
+        },
+        {
+            "objectName": "text7",
+            "boundingBox": {
+                "xmin": 22,
+                "ymin": 909,
+                "xmax": 1111,
+                "ymax": 1000,
+                "text": "6. கண்டி அரசாங்க முறைபற்றி ஒரு கட்டுரை வரைக."
+            }
+        },
+        {
+            "objectName": "text8",
+            "boundingBox": {
+                "xmin": 22,
+                "ymin": 995,
+                "xmax": 1126,
+                "ymax": 1100,
+                "text": "7. டச்சுப் பரிபாலனத்தைப் பின்வரும் தலையங்கங்களின் கீழ் \nஎழுதுக."
+            }
+        },
+        {
+            "objectName": "text9",
+            "boundingBox": {
+                "xmin": 109,
+                "ymin": 1104,
+                "xmax": 1082,
+                "ymax": 1164,
+                "text": "(1) நீதி பரிபாலனம் (2) அரசாங்க வருமானமும் வரிகளும்"
+            }
+        },
+        {
+            "objectName": "text10",
+            "boundingBox": {
+                "xmin": 113,
+                "ymin": 1167,
+                "xmax": 1086,
+                "ymax": 1224,
+                "text": "(3)பொருளாதாரநிலை (4) மதம் (5) கல்வி (6) கலாச்சாரம்"
+            }
+        },
+        {
+            "objectName": "text11",
+            "boundingBox": {
+                "xmin": 13,
+                "ymin": 1238,
+                "xmax": 1102,
+                "ymax": 1451,
+                "text": "8.குறிப்பெழுதுக:- இரண்டாம் இராசசிங்கன், இரண்டாம் \nவிமலதர்ம சூரியன், கீர்த்தி ஸ்ரீ இராசசிங்கன், 1766-ம் \nஆண்டு உடன்படிக்கை, செபால்ட் டீ வீயர்த், தேசவழமை, \nதோம்பு."
+            }
+        }
+    ],
+    "metadata": {
+        "name": "image39",
+        "format": "TIF",
+        "memorySizeMB": "5.86",
+        "font": {
+            "style": "Unknown",
+            "size": "Unknown"
+        },
+        "resource": {
+            "type": "Book",
+            "script": "Tamil",
+            "scriptType": "Mono",
+            "genre": "Questions",
+            "domain": "History",
+            "contentFormat": "Plain text"
+        },
+        "publication": {
+            "title": "இலங்கைச் சரித்திர விளக்கம் (1500-1961)",
+            "subtitle": "பரீட்சை வினாக்கள்",
+            "author": "திரு. A. விஜயன் விக்ரோறியா",
+            "edition": "2",
+            "year": "1961",
+            "publisher": "திரு.வே.சிவக்கொழுந்து",
+            "printingPlace": "",
+            "printingTechnology": "Letterpress",
+            "isbn_issn": "",
+            "materialType": "white print",
+            "copyright": ""
+        },
+        "paths": {
+            "imagePath": "..\\Images\\image39.tif",
+            "textPath": "..\\Texts\\image39.xml"
+        },
+        "image_condition": {
+            "color": "white",
+            "condition": "Good"
+        }
+    }
+}

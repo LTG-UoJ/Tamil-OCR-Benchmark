@@ -1,0 +1,130 @@
+{
+    "image": {
+        "fileName": "image25.tif",
+        "resolution": 300,
+        "dimensions": {
+            "width": 1243,
+            "height": 1804
+        }
+    },
+    "annotations": [
+        {
+            "objectName": "text1",
+            "boundingBox": {
+                "xmin": 224,
+                "ymin": 65,
+                "xmax": 1006,
+                "ymax": 165,
+                "text": "இருமையும் ஒருமையும்?"
+            }
+        },
+        {
+            "objectName": "text2",
+            "boundingBox": {
+                "xmin": 490,
+                "ymin": 771,
+                "xmax": 732,
+                "ymax": 831,
+                "text": "ஆக்கியோர் :"
+            }
+        },
+        {
+            "objectName": "text3",
+            "boundingBox": {
+                "xmin": 200,
+                "ymin": 835,
+                "xmax": 1026,
+                "ymax": 903,
+                "text": "திருவாளர்-திரு.வி.கலியாணசுந்தரனார்"
+            }
+        },
+        {
+            "objectName": "text4",
+            "boundingBox": {
+                "xmin": 426,
+                "ymin": 1403,
+                "xmax": 774,
+                "ymax": 1459,
+                "text": "சாது அச்சுக்கூடம்"
+            }
+        },
+        {
+            "objectName": "text5",
+            "boundingBox": {
+                "xmin": 354,
+                "ymin": 1463,
+                "xmax": 856,
+                "ymax": 1521,
+                "text": "இராயப்பேட்டை, சென்னை"
+            }
+        },
+        {
+            "objectName": "text6",
+            "boundingBox": {
+                "xmin": 206,
+                "ymin": 1535,
+                "xmax": 338,
+                "ymax": 1577,
+                "text": "உரிமை"
+            }
+        },
+        {
+            "objectName": "text7",
+            "boundingBox": {
+                "xmin": 104,
+                "ymin": 1577,
+                "xmax": 434,
+                "ymax": 1633,
+                "text": "ஆக்கியோருடையது"
+            }
+        },
+        {
+            "objectName": "text8",
+            "boundingBox": {
+                "xmin": 558,
+                "ymin": 1561,
+                "xmax": 672,
+                "ymax": 1629,
+                "text": "1950"
+            }
+        }
+    ],
+    "metadata": {
+        "name": "image25",
+        "format": "TIF",
+        "memorySizeMB": "4.19",
+        "font": {
+            "style": "Unknown",
+            "size": "Unknown"
+        },
+        "resource": {
+            "type": "Book",
+            "script": "Tamil",
+            "scriptType": "Mono",
+            "genre": "Cover",
+            "domain": "Philosophy ",
+            "contentFormat": "Cover"
+        },
+        "publication": {
+            "title": "இருமையும் ஒருமையும்?",
+            "subtitle": "",
+            "author": "திரு.வி.கலியாணசுந்தரனார்",
+            "edition": "1",
+            "year": "1950",
+            "publisher": "",
+            "printingPlace": "சாது அச்சுக்கூடம்",
+            "printingTechnology": "Letterpress",
+            "isbn_issn": "",
+            "materialType": "white print",
+            "copyright": "திரு.வி.கலியாணசுந்தரனார்"
+        },
+        "paths": {
+            "imagePath": "..\\Images\\image25.tif",
+            "textPath": "..\\Texts\\image25.xml"
+        },
+        "image_condition": {
+            "color": "white",
+            "condition": "Good"
+        }
+    }
+}
