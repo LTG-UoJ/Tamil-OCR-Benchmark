@@ -32,8 +32,6 @@ The datasets are structured to assess and evaluate the performance of OCR system
     - `Images`: Document images associated with bounding box annotations.
     - `Texts`: Ground truth text files related to the document images.
 
-## Usage
-
 ## Metadata
 
 The `metadata_table.json` file in the DiversePageFormats_Dataset provides structured metadata about the associated images and texts. It includes information such as:
