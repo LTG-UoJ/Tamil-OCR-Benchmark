@@ -11,13 +11,6 @@ The datasets are structured to assess and evaluate the performance of OCR system
 ## Repository Structure
 
 ### Datasets Overview
-- **LineSegmentation_Dataset**
-  - Contains data of line-level segmentation.
-  - Subdirectories:
-    - `Ground truth texts`: Text files with ground truth information for each line.
-    - `Line by line Cropped Images`: Cropped images corresponding to individual text lines.
-    - `Source Images`: Original document images from which lines were extracted.
-
 - **DiversePageFormats_Dataset**
   - Designed for diverse page format analysis.
   - Subdirectories:
@@ -25,6 +18,13 @@ The datasets are structured to assess and evaluate the performance of OCR system
     - `Texts`: Associated text files for the corresponding document images.
     - `metadata_table.json`: Metadata providing details about the images and texts.
 
+- **LineSegmentation_Dataset**
+  - Contains data of line-level segmentation.
+  - Subdirectories:
+    - `Ground truth texts`: Text files with ground truth information for each line.
+    - `Line by line Cropped Images`: Cropped images corresponding to individual text lines.
+    - `Source Images`: Original document images from which lines were extracted.
+      
 - **BoundingBox_Dataset**
   - Provides bounding box segmentation dataset.
   - Subdirectories:
